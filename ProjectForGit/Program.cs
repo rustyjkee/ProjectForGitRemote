@@ -6,6 +6,7 @@ namespace ProjectForGit
     {
         static void Main(string[] args)
         {
+            // изменение для подзадачи1
             Console.WriteLine("Hello World!");
         }
     }
