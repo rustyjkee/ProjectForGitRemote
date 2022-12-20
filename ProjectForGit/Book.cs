@@ -9,5 +9,6 @@ namespace ProjectForGit
     internal class Book
     {
         // изменение для подзадачи2//ыввыаыва213123
+        public int MyProperty { get; set; }
     }
 }

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="123123123123\" />
+    <Folder Include="task7_folder\" />
   </ItemGroup>
 
 </Project>
