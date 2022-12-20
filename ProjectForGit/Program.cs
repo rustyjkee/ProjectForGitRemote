@@ -9,6 +9,8 @@ namespace ProjectForGit
             Console.WriteLine("Hello World!");
 
             // сделали снова изменения не в той ветке
+
+            // сделал изменения для 7 задачи
         }
     }
 }
