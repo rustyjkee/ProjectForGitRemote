@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="task7_folder\" />
+    <Compile Remove="task7_folder\**" />
+    <EmbeddedResource Remove="task7_folder\**" />
+    <None Remove="task7_folder\**" />
   </ItemGroup>
 
 </Project>
