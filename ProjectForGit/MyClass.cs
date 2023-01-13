@@ -1,6 +1,6 @@
 ﻿namespace ProjectForGit
 {
-    public class MyClass123123123
+    public class MyClass12312312311111123
     {
     }
 }
