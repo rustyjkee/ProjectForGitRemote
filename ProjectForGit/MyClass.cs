@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProjectForGit
+﻿namespace ProjectForGit
 {
-    internal class MyClass123123123
+    public class MyClass123123123
     {
     }
 }
